@@ -3,9 +3,11 @@
     "cypress-real-events": "^1.7.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.22.2",
     "@wdio/allure-reporter": "^7.20.0",
     "cypress": "^9.5.4",
     "cypress-xpath": "^1.6.2",
     "install": "^0.13.0"
-  }
+  },
+  "scripts": {}
 }
